@@ -1,0 +1,4 @@
+﻿2021-11-13 09:47:24.1134|DEBUG|ProjectLogger.NLog|Debug Successfull : Sum()
+2021-11-13 09:47:24.1243|INFO|ProjectLogger.NLog|Sum Method passed, Result6
+2021-11-13 09:48:49.7916|DEBUG|ProjectLogger.NLog|Debug Successfull : Sum()
+2021-11-13 09:48:49.8151|INFO|ProjectLogger.NLog|Sum Method passed, Result6
